@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0e99cba8-6db2-491c-856c-da7c03e009b4",
+    "data": [
+      {
+        "text": "Nice shirt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b546d3f1-101d-4f32-b29f-da63015e7582",
+    "data": [
+      {
+        "text": "Could you please show me some dog pictures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a83ad96b-c5db-4086-8aeb-654d11b53425",
+    "data": [
+      {
+        "text": "Navigate home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55867407-997e-4968-b5e4-a857e3e63bd4",
+    "data": [
+      {
+        "text": "Who are US presidents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d16fa0a1-02b8-44c3-9e8e-a4d8e7868b4d",
+    "data": [
+      {
+        "text": "What are the main cities in UK?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98193e37-0ab3-44e1-ae92-d81a8b494a61",
+    "data": [
+      {
+        "text": "Need help with cooking recipes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b02b07c8-c927-4a5f-ac46-8615db5f6e65",
+    "data": [
+      {
+        "text": "I want to build a snowman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "423a9a6a-c3c8-4c61-bdf0-57e264d63d76",
+    "data": [
+      {
+        "text": "Tell me about the weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e199f43-9860-4423-88af-39e106dcbe87",
+    "data": [
+      {
+        "text": "What can you do to make me laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d92e8174-5ee8-4bad-966a-170f583e7d5c",
+    "data": [
+      {
+        "text": "Show me your travel plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "cfe5795a-92e5-41b7-b605-94d959e9881d",
+  "name": "bot.define",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.define",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "title": "What are chatbots?",
+          "textToSpeech": "",
+          "formattedText": "A chatbot (bot or conversation app) is a computer program which conducts a conversation via speech or text. Chatbots can be single or multipurpose, designed just for fun or help people get things done. They can live in multiple platforms like Google Assistant, Facebook Messenger, Slack, etc.",
+          "image": {
+            "url": "https://lh3.googleusercontent.com/ZO4koX9TVp0qqTujwCUEkkA0P1TAWBNbLGPbLWLmZDnhgE2zz49FiChkaQLLYsEwfEqJA06bJ5VeD6tfNA0cP-omQeNnig\u003ds688",
+            "accessibilityText": "What are chatbots?"
+          },
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
