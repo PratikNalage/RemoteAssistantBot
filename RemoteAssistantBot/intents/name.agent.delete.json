@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "8ed31933-495c-4c23-8fb5-b7adfd1604d1",
+          "id": "d6e039c5-f673-4d16-ae8d-a7b353fc521c",
           "name": "given-name",
           "required": false,
           "dataType": "@sys.given-name",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "a390f87f-d7fc-4f04-b2d7-fe2211854ce6",
+          "id": "9cace93a-f368-4c8e-83e7-7c9a6e2c0a53",
           "name": "last-name",
           "required": false,
           "dataType": "@sys.last-name",
@@ -38,7 +38,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "e8986c49-0bfa-469c-873a-4e7bee31c7ba",
+          "id": "9f55cd30-b8d4-4ef2-b053-1f8bdc1cddee",
           "name": "nick-name",
           "required": false,
           "dataType": "@nick-name",
@@ -52,7 +52,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "657544ed-25a6-4b62-bdea-70a2925981e7",
+          "id": "74812bb6-dc8c-4d6e-ad81-a4bdb02dc663",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -72,6 +72,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "I am sorry I cannot forget my name. I am Remote Assistant Bot - RAB"
+          ],
           "condition": ""
         }
       ],

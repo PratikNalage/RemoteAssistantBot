@@ -11,6 +11,15 @@
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://adf7-73-251-44-8.ngrok.io/webhook",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
   "isPrivate": true,
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],

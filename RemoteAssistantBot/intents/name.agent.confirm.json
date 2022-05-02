@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "98cc9658-0cf4-472c-be3f-171811aa02cc",
+          "id": "a49440fe-5989-426e-bd06-5eb069f5ef52",
           "name": "given-name",
           "required": false,
           "dataType": "@sys.given-name",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "fd86a3e6-8d70-474a-87a1-390c73526b0d",
+          "id": "0118ca8f-fcc3-444d-9d17-81338fa0f3a3",
           "name": "last-name",
           "required": false,
           "dataType": "@sys.last-name",
@@ -38,7 +38,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "a4e8e922-2208-4dc6-8e10-6f8525f7c503",
+          "id": "1fd87fd3-89fc-4f27-946e-12ee7d7c0092",
           "name": "nick-name",
           "required": false,
           "dataType": "@nick-name",
@@ -52,7 +52,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "80f76ebe-0e5e-4721-afdf-0433d9e9b77b",
+          "id": "e0209a1c-27c8-40a4-8d62-777478416051",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -72,6 +72,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "My name is Remote Assistant Bot. How can I help you ?"
+          ],
           "condition": ""
         }
       ],

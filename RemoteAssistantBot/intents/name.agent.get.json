@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "208bf065-7160-44ff-8b44-dc691b399c48",
+          "id": "d6e4ba51-b4bc-45e8-801e-55f814fa1a4f",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -30,6 +30,11 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "My name is Remote Assistant Bot. You can call me RAB.",
+            "My name is Remote Assistant Bot.",
+            "You can call me RAB"
+          ],
           "condition": ""
         }
       ],

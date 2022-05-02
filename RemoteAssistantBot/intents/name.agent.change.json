@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "ccffe626-c631-4961-b921-0b56138e383e",
+          "id": "0405937e-ebce-4f9f-90fa-d8ca5349c1b2",
           "name": "given-name",
           "required": false,
           "dataType": "@sys.given-name",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "1e39454f-4765-4332-9791-5b79ce9dd96c",
+          "id": "9caaa3f2-6fc1-4197-9266-37169f5fbc29",
           "name": "last-name",
           "required": false,
           "dataType": "@sys.last-name",
@@ -38,7 +38,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "f568559e-9aa2-45bf-84b4-c24119b2098d",
+          "id": "ae486141-c896-496e-a778-54d80ee76056",
           "name": "nick-name",
           "required": false,
           "dataType": "@nick-name",
@@ -52,7 +52,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "552aeaa8-b9c1-4b13-8778-823c08d86b64",
+          "id": "71e02612-c904-4533-9ad5-53fa020cf9ab",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -72,6 +72,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "I am sorry, but you cannot rename me"
+          ],
           "condition": ""
         }
       ],

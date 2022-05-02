@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "757a3e1a-3706-4fe4-b04c-2738f0661aec",
+          "id": "68566543-e26f-4f41-8b6f-ff5458baadb7",
           "name": "name-type",
           "required": false,
           "dataType": "@name-type",
@@ -30,6 +30,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "My name is RAB, R as in Rick, A as in Apple, B as in Book"
+          ],
           "condition": ""
         }
       ],

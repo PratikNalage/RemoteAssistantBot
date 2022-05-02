@@ -16,7 +16,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "I\u0027m a sample FAQ bot. I can give information about chatbots and how to build them with API.AI."
+            "I am a chatbot to help you with your questions. You can ask me any questions related to your Software Engineering work."
           ],
           "condition": ""
         }

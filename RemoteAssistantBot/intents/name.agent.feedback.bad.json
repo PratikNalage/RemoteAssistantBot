@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "12059c0f-8afe-4d75-bc55-541a583b843a",
+          "id": "c63c07b3-e6aa-4164-a823-d4965b246cce",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -30,6 +30,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "I am sorry, you can call me RAB"
+          ],
           "condition": ""
         }
       ],

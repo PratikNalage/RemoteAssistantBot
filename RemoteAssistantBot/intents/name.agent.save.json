@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "7b5496f8-4f1d-4703-86e8-93b3846b794a",
+          "id": "6fec3800-b3b2-4f79-9d4c-a01316fa8762",
           "name": "given-name",
           "required": false,
           "dataType": "@sys.given-name",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "8bb9f2e3-8995-4518-bea4-fcd05dfec9e7",
+          "id": "470687dd-a239-4f0b-93e5-54650ff6b91b",
           "name": "last-name",
           "required": false,
           "dataType": "@sys.last-name",
@@ -38,7 +38,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "f86fdbf5-c1d6-4a7a-9265-18b08a59b355",
+          "id": "f98b89de-6a3e-402d-a445-55e321b89512",
           "name": "nick-name",
           "required": false,
           "dataType": "@nick-name",
@@ -52,7 +52,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "0ba1d37c-3b6d-44b9-a436-aa3eed0c7889",
+          "id": "ce40b210-c0a6-42c1-961c-6f3d786c7c33",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -72,6 +72,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "Thank you for the new name, but I would still love to be called a Remote Assistant Bot - RAB"
+          ],
           "condition": ""
         }
       ],

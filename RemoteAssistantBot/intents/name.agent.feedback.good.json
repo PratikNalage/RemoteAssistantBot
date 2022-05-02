@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "61704cd1-cb62-48f2-91bf-68a956360b72",
+          "id": "4155f108-94ae-4178-a67b-3dd65d829093",
           "name": "type",
           "required": false,
           "dataType": "@name-type",
@@ -30,6 +30,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "en",
+          "speech": [
+            "Thank you for your words"
+          ],
           "condition": ""
         }
       ],
