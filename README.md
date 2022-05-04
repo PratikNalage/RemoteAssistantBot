@@ -1,7 +1,9 @@
 # Remote Assistant Bot (RAB)
 ##### _CS5704 - Software Engineering Project_
 ###### _Created By: Pratik Nalage, Sumukh Bapat, Shawal Khalid, Shunyu Yao_
---
+
+## Project Description
+
 Remote Assistant Bot is a platform to foster collaboration between remote software engineers. It it generic enough to extend to other categories of remote worker as well. RAB is a QnA platform that solves queries of newly joined software engineer by connecting them to a senior software engineer. In the process, it tries to learn and understand the questions and it's responses. RAB acts as a single point of contact for all software engineers to resolve their queries and eventually boost productivity.
 
 
