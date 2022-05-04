@@ -60,11 +60,14 @@ flask run -p 5001
 2. Chatbot will check if the query is present in the database. If yes, it'll answer directly, else the chatbot will forward the query to the senior person in/outsite the team.
 3. When the senior person answers the question, the chatbot will store it query and it's response
 
-Example:
+#### Example:
+
 User's query -> What actions can I take if I see a long running query on the database
 
 RAB's response -> You can follow these steps to solve the issue -
 https://en.wikipedia.org/wiki/Main_Page/longrunningqueries
+
+You can try this use case on the below Demo link
 
 
 ## Demo
