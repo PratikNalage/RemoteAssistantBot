@@ -64,6 +64,13 @@ flask run -p 5001
 ## Demo
 The front-end DiaglogFlow setup is hosted on https://www.pratiknalage.com/techbot
 
+
+## Study Materials
+DiaglowFlow - https://cloud.google.com/dialogflow/docs
+Flask - https://flask.palletsprojects.com/en/2.1.x/
+Project Proposal - https://github.com/PratikNalage/RemoteAssistantBot/blob/main/docs/Techbot-proposal.pdf
+Final Proposal - https://github.com/PratikNalage/RemoteAssistantBot/blob/main/docs/Techbot-report.pdf
+
 ## License
 
 MIT
