@@ -25,7 +25,7 @@ def webhook():
     con.close()
 
     # Return sample response to the user
-    responseText = "I don't have that response in my database. Let me forward that query to a senior engineer and get back to you! Thank you for your patience - Webhook"
+    responseText = "I don't have that response in my database. Let me forward that query to a senior engineer and get back to you! Thank you for your patience. - Webhook"
     res = {"fulfillmentMessages": [{"text": {"text": [responseText]}}]}
     return res
 

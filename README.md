@@ -60,9 +60,24 @@ flask run -p 5001
 2. Chatbot will check if the query is present in the database. If yes, it'll answer directly, else the chatbot will forward the query to the senior person in/outsite the team.
 3. When the senior person answers the question, the chatbot will store it query and it's response
 
+Example:
+User's query -> What actions can I take if I see a long running query on the database
+RAB's response -> You can follow these steps to solve the issue -
+https://en.wikipedia.org/wiki/Main_Page/longrunningqueries
+
 
 ## Demo
 The front-end DiaglogFlow setup is hosted on https://www.pratiknalage.com/techbot
+
+
+## Unit Tests
+1. Navigate to the intents folder - https://github.com/PratikNalage/RemoteAssistantBot/tree/main/RemoteAssistantBot/intents
+2. Parse the JSON
+3. Use the test from *usersays_en.json as input
+4. Validate against message field from *response.json as output
+
+#### Why we haven't included unit test cases?
+The unpaid version of DialogFlow (DialogFlow ES) is limited and doesn't support unit test cases out of the box. Nevertheless, we have enabled validation in diaglowFlow that validates the intents and entities post training the model. So validation testing is covered but unit testing is not. However, if we upgrade the CX version, we can write a unit test as above.
 
 
 ## Study Materials
