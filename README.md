@@ -62,6 +62,7 @@ flask run -p 5001
 
 Example:
 User's query -> What actions can I take if I see a long running query on the database
+
 RAB's response -> You can follow these steps to solve the issue -
 https://en.wikipedia.org/wiki/Main_Page/longrunningqueries
 
