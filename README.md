@@ -68,14 +68,15 @@ The front-end DiaglogFlow setup is hosted on https://www.pratiknalage.com/techbo
 ## Study Materials
 DiaglowFlow - https://cloud.google.com/dialogflow/docs
 
-
 Flask - https://flask.palletsprojects.com/en/2.1.x/
-
 
 Project Proposal - https://github.com/PratikNalage/RemoteAssistantBot/blob/main/docs/Techbot-proposal.pdf
 
-
 Final Proposal - https://github.com/PratikNalage/RemoteAssistantBot/blob/main/docs/Techbot-report.pdf
+
+
+## Project Tracking
+We used Kanban Board and Gantt Chart to track the overall progress. Here's the link to the [board](https://docs.google.com/spreadsheets/d/1n9NjL94_rJ7Lya5gjzQ_U1tNRg3a55yb5krC0SPcepo/edit?usp=sharing)
 
 
 ## License
